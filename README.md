@@ -3,15 +3,6 @@
 
 
 <p align="center">
-  <b>Mengqi Lei<sup>1</sup>, Haochen Wu<sup>1</sup>, Xinhua Lv<sup>1</sup>, Xin Wang<sup>2</sup></b>
-</p>
-
-<p align="center">
-  <sup>1</sup>China University of Geosciences, Wuhan 430074, China<br>
-  <sup>2</sup>Baidu Inc, Beijing, China<br>
-</p>
-
-<p align="center">
   <!-- AAAI Badge -->
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32482" target="_blank">
     <img src="https://img.shields.io/badge/AAAI-2025-blueviolet.svg?style=flat-square" alt="AAAI Proceeding">
